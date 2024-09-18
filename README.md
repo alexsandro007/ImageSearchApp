@@ -10,10 +10,12 @@ ImageSearchApp is a simple Android application that allows users to search for i
 - View author information.
 
 ## Screenshots
-![Main screen with search and action buttons](images/screenshot1.jpg)
-![Author information screen](images/screenshot2.jpg)
-![App icon](images/screenshot3.jpg)
-![Image with like button and updated counter](images/screenshot4.jpg)
+<p align="center">
+  <img width="400" height="auto" src="images/screenshot1.jpg" alt="Main screen with search and action buttons">
+  <img width="400" height="auto" src="images/screenshot2.jpg" alt="Author information screen">
+  <img width="400" height="auto" src="images/screenshot3.jpg" alt="App icon">
+  <img width="400" height="auto" src="images/screenshot4.jpg" alt="Image with like button and updated counter">
+</p>
 
 ## Requirements
 - Android 5.0 (Lollipop) and above.

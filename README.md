@@ -11,10 +11,10 @@ ImageSearchApp is a simple Android application that allows users to search for i
 
 ## Screenshots
 <p align="center">
-  <img width="400" height="auto" src="images/screenshot1.jpg" alt="Main screen with search and action buttons">
-  <img width="400" height="auto" src="images/screenshot2.jpg" alt="Author information screen">
-  <img width="400" height="auto" src="images/screenshot3.jpg" alt="App icon">
-  <img width="400" height="auto" src="images/screenshot4.jpg" alt="Image with like button and updated counter">
+  <img width="200" height="auto" src="images/screenshot1.jpg" alt="Main screen with search and action buttons">
+  <img width="200" height="auto" src="images/screenshot2.jpg" alt="Author information screen">
+  <img width="200" height="auto" src="images/screenshot3.jpg" alt="App icon">
+  <img width="200" height="auto" src="images/screenshot4.jpg" alt="Image with like button and updated counter">
 </p>
 
 ## Requirements
